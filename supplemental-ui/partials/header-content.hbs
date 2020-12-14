@@ -10,9 +10,11 @@
     </div>
     <div id="topbar-nav" class="navbar-menu">
       <div class="navbar-end">
+        {{#if env.DOCSEARCH_ENABLED}}
         <div class="navbar-item hide-for-print">
           <input id="search-input" type="text" placeholder="Search docs">
         </div>
+        {{/if}}
         <a class="navbar-item" href="#">Home</a>
       </div>
     </div>
