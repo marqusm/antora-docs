@@ -1,0 +1,20 @@
+site:
+  title: Antora Mock Site
+  # the 404 page and sitemap files only get generated when the url property is set
+  url: https://marqusm.com/antora
+  start_page: mock-group::index.adoc
+content:
+  sources:
+    - url: https://github.com/marqusm/antora-docs.git
+      branches: master
+      start_path: docs
+    - url: https://github.com/marqusm/mock-backend-service.git
+      branches: master
+      edit_url: false
+    - url: https://github.com/marqusm/mock-frontend-service.git
+      branches: master
+      start_path: docs
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
