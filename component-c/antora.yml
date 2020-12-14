@@ -1,0 +1,5 @@
+name: component-c
+title: Component C
+version: dev
+nav:
+- modules/ROOT/nav.adoc

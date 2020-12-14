@@ -1,0 +1,13 @@
+= Index
+
+.Core Services
+* xref:component-a:ROOT:index.adoc[Component A]
+* xref:component-b:ROOT:index.adoc[Component B]
+
+.Bookable Calendar Services
+* xref:component-c:ROOT:index.adoc[Component C]
+* xref:component-d:ROOT:index.adoc[Component D]
+** xref:component-e:ROOT:index.adoc[Component E]
+** xref:component-f:ROOT:index.adoc[Component F]
+*** xref:component-g:ROOT:index.adoc[Component G]
+**** xref:component-h:ROOT:index.adoc[Component H]

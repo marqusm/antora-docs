@@ -1,0 +1,5 @@
+name: component-l
+title: Component L
+version: dev
+nav:
+- modules/ROOT/nav.adoc

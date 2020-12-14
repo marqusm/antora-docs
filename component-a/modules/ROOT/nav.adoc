@@ -1,0 +1,4 @@
+* xref:index.adoc[]
+** xref:component-b:ROOT:index.adoc[]
+** xref:component-c:ROOT:index.adoc[]
+** xref:mock-backend-service:ROOT:index.adoc[]

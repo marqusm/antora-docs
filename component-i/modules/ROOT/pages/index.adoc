@@ -1,0 +1,3 @@
+= Welcome to Component I!
+
+This is the automatic start page for version *{page-component-version}*.

@@ -1,3 +1,0 @@
-Documentation file
-
-This is the very beginning of our documentation.

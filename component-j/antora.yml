@@ -1,0 +1,5 @@
+name: component-j
+title: Component J
+version: dev
+nav:
+- modules/ROOT/nav.adoc
