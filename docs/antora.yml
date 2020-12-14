@@ -1,6 +1,5 @@
 name: mock-group
 title: Mock Group
 version: dev
-#nav:
-#  - modules/ROOT/nav.adoc
-#  - modules/module-one/nav.adoc
+nav:
+  - index.adoc
